@@ -91,6 +91,6 @@ npm run dev
 ```
 ---
 
-#👩‍💻 Author
+# 👩‍💻 Author
 **Riddhi Shah**
 
