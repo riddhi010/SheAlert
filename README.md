@@ -38,11 +38,6 @@ SheAlert is a full-stack web application aimed at enhancing women's safety throu
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 🚀 Getting Started (Development Setup)
 
 > **Note:** This project is still under active development. Core functionality is being built out module by module.
@@ -59,33 +54,43 @@ SheAlert is a full-stack web application aimed at enhancing women's safety throu
    ```bash
    git clone https://github.com/yourusername/shealert.git
    cd shealert
-# Frontend setup
+2. **Frontend setup**
+```bash
 cd client
 npm install
-
-# Backend setup
+```
+3. **Backend setup**
+```bash
 cd ../server
 npm install
-
+```
 # Environment Variables
 MONGO_URI=your_mongodb_uri
+
 TWILIO_ACCOUNT_SID=your_twilio_sid
+
 TWILIO_AUTH_TOKEN=your_twilio_auth_token
+
 TWILIO_PHONE_NUMBER=your_twilio_phone
+
 GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 
 # Running the project
+In two separate terminals:
 
-# In two separate terminals:
-
-# Frontend
+1. **Frontend**
+```
 cd client
 npm start
+```
 
-# Backend
+2. **Backend**
+```   
 cd server
 npm run dev
+```
+---
 
-👩‍💻 Author
-Riddhi [Your Last Name]
-Computer Science Engineering Student
+#👩‍💻 Author
+**Riddhi Shah**
+
