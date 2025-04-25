@@ -8,9 +8,9 @@ SheAlert is a full-stack web application aimed at enhancing women's safety throu
 
 ## 🌟 Key Features (In Progress)
 
-- ✅ **Real-time SOS Alerts** to trusted contacts via SMS (Twilio API)
+- ✅ **Real-time SOS Alerts** to trusted contacts via SMS 
 - ✅ **Geolocation Tracking** for live location sharing
-- 🔄 **Safe Route Mapping** using Google Maps API
+- 🔄 **Safe Route Mapping** 
 - 🔄 **Night Mode Checker** to alert users of potential nighttime risks
 - 🔄 **Anonymous Reporting** to local authorities or security services
 - 🕵️‍♀️ **Privacy-Focused Design** with secure, minimal data collection
@@ -24,8 +24,7 @@ SheAlert is a full-stack web application aimed at enhancing women's safety throu
 ### 🔹 Frontend
 - React.js
 - Tailwind CSS
-- Google Maps API
-- Geolocation API
+
 
 ### 🔸 Backend
 - Node.js
@@ -33,8 +32,9 @@ SheAlert is a full-stack web application aimed at enhancing women's safety throu
 - MongoDB
 
 ### 🔌 APIs & Integrations
-- Twilio API (SMS alerts)
-- Google Maps & Places API (location-based services)
+- Vonage API
+- Leaflet.js
+- OpenStreetMap
 
 ---
 
