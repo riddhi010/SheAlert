@@ -17,9 +17,7 @@
 - **Database**: MongoDB  
 - **APIs**: Vonage API (for SMS alerts)  
 - **Mapping Tools**: Leaflet.js, OpenStreetMap  
-   
----
-
+  
 ## 📬 Contact
 
 **Developed with ❤️ by Riddhi**
